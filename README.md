@@ -1,7 +1,7 @@
 # Election_Analysis
 Week3 Python projects 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Projecr Overview
+## Project Overview
 This Project delivers the election audit by the Colorado Board of Elections.
 - Audit the total number of votes cast.
 - List of candidates. 
